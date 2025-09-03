@@ -1,12 +1,13 @@
 # cs3017-125
 Basic with code for CS-3017
 
-# About this class
+# About this class 
+
 This class is about designing a good paragragh
 
 This will be a second paragragh on the site 
 
-## This is a subsection
+## This is a subsection [#about]
 We can add emphasis to text with *asterisks* to create italics or **Bold** text or **Both**
 
 ## Example quotation 
@@ -37,6 +38,8 @@ We can add emphasis to text with *asterisks* to create italics or **Bold** text 
 [ Goodle search](https://google.com)
 
 [Class 3](class3)
+
+[subsection_example](subsection-example)
 
 
   
