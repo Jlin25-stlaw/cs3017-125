@@ -33,7 +33,10 @@ We can add emphasis to text with *asterisks* to create italics or **Bold** text 
 4. this is the third item
      1. This is the first item in a sublist
 
+## Links to other places
+[ Goodle search](https://google.com)
 
+[Class 3](class3)
 
 
   
